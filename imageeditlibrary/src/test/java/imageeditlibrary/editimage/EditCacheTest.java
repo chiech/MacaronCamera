@@ -2,13 +2,12 @@ package imageeditlibrary.editimage;
 
 import android.graphics.Bitmap;
 
-import com.xinlan.imageeditlibrary.editimage.widget.EditCache;
+import com.macaron.macaroncamera.editimage.widget.EditCache;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.junit.runners.JUnit4;
 import org.robolectric.RobolectricTestRunner;
 import org.robolectric.annotation.Config;
 

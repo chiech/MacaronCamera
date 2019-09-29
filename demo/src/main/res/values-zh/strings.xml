@@ -6,4 +6,11 @@
     <string name="edit_image">编辑图片</string>
     <string name="save_path">保存到路径: %s</string>
     <string name="take_photo">拍摄照片</string>
+    <string name="emoji1">表情1</string>
+    <string name="emoji2">表情2</string>
+    <string name="emoji3">表情3</string>
+    <string name="emoji4">表情4</string>
+    <string name="emoji5">表情5</string>
+    <string name="emoji6">表情6</string>
+
 </resources>

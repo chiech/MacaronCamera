@@ -12,6 +12,13 @@
     <string name="text">text</string>
     <string name="edit">edit</string>
 
+    <string name="emoji1">emoji 1</string>
+    <string name="emoji2">emoji 2</string>
+    <string name="emoji3">emoji 3</string>
+    <string name="emoji4">emoji 4</string>
+    <string name="emoji5">emoji 5</string>
+    <string name="emoji6">emoji 6</string>
+
 
 
     <string name="materialcolorpicker__app_name">Android Material Color Picker Dialog</string>

@@ -38,6 +38,13 @@
         <item>马赛克</item>
     </string-array>
 
+    <string name="emoji1">表情1</string>
+    <string name="emoji2">表情2</string>
+    <string name="emoji3">表情3</string>
+    <string name="emoji4">表情4</string>
+    <string name="emoji5">表情5</string>
+    <string name="emoji6">表情6</string>
+
     <string name="more">更多</string>
     <string name="exit_without_save">编辑的图片还未保存,确认退出吗？</string>
     <string name="confirm">确认</string>
